@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/optika39/precache-manifest.3d857f652889e79d5cf4dbc374e18131.js"
+  "/optika39/precache-manifest.5dbea45881a9fa587479176af7d5494a.js"
 );
 
 self.addEventListener('message', (event) => {
