@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/optika39/static/css/main.05716109.chunk.css",
+    "main.js": "/optika39/static/js/main.1ad1bcc8.chunk.js",
+    "main.js.map": "/optika39/static/js/main.1ad1bcc8.chunk.js.map",
+    "runtime-main.js": "/optika39/static/js/runtime-main.e1e1e26e.js",
+    "runtime-main.js.map": "/optika39/static/js/runtime-main.e1e1e26e.js.map",
+    "static/js/2.d8e85b6a.chunk.js": "/optika39/static/js/2.d8e85b6a.chunk.js",
+    "static/js/2.d8e85b6a.chunk.js.map": "/optika39/static/js/2.d8e85b6a.chunk.js.map",
+    "index.html": "/optika39/index.html",
+    "precache-manifest.3d857f652889e79d5cf4dbc374e18131.js": "/optika39/precache-manifest.3d857f652889e79d5cf4dbc374e18131.js",
+    "service-worker.js": "/optika39/service-worker.js",
+    "static/css/main.05716109.chunk.css.map": "/optika39/static/css/main.05716109.chunk.css.map",
+    "static/js/2.d8e85b6a.chunk.js.LICENSE.txt": "/optika39/static/js/2.d8e85b6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1e1e26e.js",
+    "static/js/2.d8e85b6a.chunk.js",
+    "static/css/main.05716109.chunk.css",
+    "static/js/main.1ad1bcc8.chunk.js"
+  ]
+}
